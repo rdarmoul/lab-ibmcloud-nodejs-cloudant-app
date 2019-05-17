@@ -8,5 +8,5 @@ applications:
   random-route: true
   memory: 128M
   services:
-  - lab-cloudant-nosql
+  - lab-cloudant-nosql 
 

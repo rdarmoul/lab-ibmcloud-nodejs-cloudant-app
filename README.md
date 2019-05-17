@@ -4,6 +4,11 @@ This application demonstrates how to use the Bluemix Cloudant NoSQL DB service. 
 
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/nodejs-cloudant)
 
+## Configure
+1. Create a cloudant instance in your account
+2. Connect the cloudant instance to your cloud foundary space
+
+
 ## Run the app locally
 
 1. [Install Node.js][]
