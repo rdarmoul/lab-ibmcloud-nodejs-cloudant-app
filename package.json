@@ -11,7 +11,7 @@
     "cloudant": "1.7.x",
     "body-parser": "1.17.x",
     "method-override": "2.3.x",
-    "morgan": "1.8.x",
+    "morgan": "1.9.x",
     "errorhandler": "1.5.x",
     "connect-multiparty": "2.0.x"
   },
